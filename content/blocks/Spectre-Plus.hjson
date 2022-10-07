@@ -1,0 +1,45 @@
+type: ItemTurret
+localizedName: Spectre Plus
+description: The Spectre, but better.
+health: 26560
+size: 4
+itemCapacity: 80
+reloadTime: 3.5
+coolantMultiplier: 30
+restitution: 0.1
+ammoUseEffect: casing3
+range: 250
+inaccuracy: 3
+recoilAmount: 3
+xRand: 3
+shotWidth: 4
+shootShake: 1
+shots: 4
+alternate: true
+targetGround: true
+targetAir: true
+shootCone: 24
+shootSound: shootBig
+
+ammoTypes: {
+	copper: standardCopper
+	graphite: standardDenseBig
+	pyratite: standardIncendiaryBig
+	thorium: standardThoriumBig
+	phase-fabric: {
+	
+		}
+	}
+	
+
+	  requirements: [
+copper/900
+graphite/300
+thorium/250
+plastanium/175
+surge-alloy/250
+]
+
+category: turret
+research: salvo
+ 

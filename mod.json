@@ -1,0 +1,10 @@
+{
+"name": "Super Specture",
+"displayName": "Super Specture",
+"author": "Viper",
+"description": "Makes the Specture more viable, like the endgame weapon it's meant to be Discord: Viper#5900",
+"version": "0.1",
+"minGameVersion": "126.3",
+"dependencies": [ ]
+"hidden": false
+ }
